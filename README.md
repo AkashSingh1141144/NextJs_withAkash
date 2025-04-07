@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://nextjs.org/static/favicon/favicon-32x32.png](https://media.licdn.com/dms/image/v2/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1696923705582?e=1749686400&v=beta&t=vXMaBYW2O8LqIOMKxEsA2TEr19WEjCZlasguRY-M4U4)" alt="Next.js Logo" width="200" />
+  <img src="[[https://nextjs.org/static/favicon/favicon-32x32.png](https://media.licdn.com/dms/image/v2/D4D12AQGKEapRbPK2aA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1696923705582?e=1749686400&v=beta&t=vXMaBYW2O8LqIOMKxEsA2TEr19WEjCZlasguRY-M4U4)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQERZ4bk0d8UrdV2K-2q7jEXYIIDVJHCn1Qvg&s)" alt="Next.js Logo" width="200" />
 </p>
 
 # 🧠 Next.js Learning Journey
