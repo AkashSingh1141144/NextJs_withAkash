@@ -1,6 +1,3 @@
-img src = "https://ik.imagekit.io/ably/ghost/prod/2023/08/use-nextjs-and-recharts-to-build-an-information-dashboard.png?tr=w-1728,q-50"
-
-
 # 🧠 Next.js Learning Journey
 
 Welcome to my **Next.js Learning** repository!  
